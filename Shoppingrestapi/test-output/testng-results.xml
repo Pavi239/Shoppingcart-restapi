@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10566" started-at="2022-12-15T12:57:28 IST" finished-at="2022-12-15T12:57:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10566" started-at="2022-12-15T12:57:28 IST" finished-at="2022-12-15T12:57:39 IST">
+      <class name="UpskillsRestapi.Restapi">
+        <test-method status="PASS" signature="getaccesstoken()[pri:0, instance:UpskillsRestapi.Restapi@33f88ab]" name="getaccesstoken" duration-ms="5383" started-at="2022-12-15T12:57:29 IST" finished-at="2022-12-15T12:57:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getaccesstoken -->
+        <test-method status="PASS" signature="register()[pri:1, instance:UpskillsRestapi.Restapi@33f88ab]" name="register" duration-ms="914" started-at="2022-12-15T12:57:34 IST" finished-at="2022-12-15T12:57:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="login()[pri:2, instance:UpskillsRestapi.Restapi@33f88ab]" name="login" duration-ms="560" started-at="2022-12-15T12:57:35 IST" finished-at="2022-12-15T12:57:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:3, instance:UpskillsRestapi.Restapi@33f88ab]" name="logout" duration-ms="661" started-at="2022-12-15T12:57:35 IST" finished-at="2022-12-15T12:57:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="forgotpassword()[pri:4, instance:UpskillsRestapi.Restapi@33f88ab]" name="forgotpassword" duration-ms="676" started-at="2022-12-15T12:57:36 IST" finished-at="2022-12-15T12:57:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method status="PASS" signature="login1()[pri:5, instance:UpskillsRestapi.Restapi@33f88ab]" name="login1" duration-ms="542" started-at="2022-12-15T12:57:37 IST" finished-at="2022-12-15T12:57:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="getaccountdetails()[pri:6, instance:UpskillsRestapi.Restapi@33f88ab]" name="getaccountdetails" duration-ms="674" started-at="2022-12-15T12:57:37 IST" finished-at="2022-12-15T12:57:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getaccountdetails -->
+        <test-method status="PASS" signature="updateaccountdata()[pri:7, instance:UpskillsRestapi.Restapi@33f88ab]" name="updateaccountdata" duration-ms="539" started-at="2022-12-15T12:57:38 IST" finished-at="2022-12-15T12:57:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateaccountdata -->
+        <test-method status="PASS" signature="logout1()[pri:8, instance:UpskillsRestapi.Restapi@33f88ab]" name="logout1" duration-ms="522" started-at="2022-12-15T12:57:38 IST" finished-at="2022-12-15T12:57:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout1 -->
+      </class> <!-- UpskillsRestapi.Restapi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
